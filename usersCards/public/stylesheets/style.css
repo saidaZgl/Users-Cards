@@ -1,0 +1,27 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: linear-gradient(to top, #4568dc, #b06ab3);
+}
+
+.navbar {
+  background-color: #b06ab3;
+}
+
+.navbar-brand {
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.users {
+  margin-top: 20px;
+  width: 16rem;
+}
+
+.row {
+  display: flex;
+  justify-content: space-around;
+}
